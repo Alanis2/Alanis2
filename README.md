@@ -1,11 +1,18 @@
 ## Olá! Eu sou a Alanis Emanuela :)
 
-👩‍💻 Hoje trabalho como fullstack
-👩‍🎓 Estudando Typescrip e Kotlin
+- 👩‍💻 Hoje trabalho como fullstack
+- 👩‍🎓 Estudando Typescrip e Kotlin
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanis2&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+✨ Sou Engenheira de Software atuando como Fullstack especificamente com Kotlin e React
+Estou no segundo ano de Bacharelado em Sistema de informação e sou formada no curso técnico de desenvolvimento de sistemas. Amo a área da tecnologia e o quanto ela mudou minha vida e o impacto que ela tem na vida de outras pessoas pelo mundo todo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanis2&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<h1> ⚡ GitHub Stats <br><br>
+<div align="center" >
+  <a href="https://github.com/GeanMilhore">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Alanis2&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanis2&layout=compact&langs_count=7&theme=radical"/>
+</div>
+</h1>
 
 <div style="display: inline_block"><br>
 
