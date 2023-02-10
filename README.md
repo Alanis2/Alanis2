@@ -7,7 +7,7 @@
 
 <h1> ⚡ GitHub Stats <br><br>
 <div align="center" >
-  <a href="https://github.com/GeanMilhore">
+  <a href="https://github.com/Alanis2">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Alanis2&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanis2&layout=compact&langs_count=7&theme=radical"/>
 </div>
