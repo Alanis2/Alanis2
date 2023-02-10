@@ -3,8 +3,7 @@
 - 👩‍💻 Hoje trabalho como fullstack
 - 👩‍🎓 Estudando Typescript e Kotlin
 
-✨ Sou Engenheira de Software atuando como Fullstack especificamente com Kotlin e React
-Estou no segundo ano de Bacharelado em Sistema de informação e sou formada no curso técnico de desenvolvimento de sistemas. Amo a área da tecnologia e o quanto ela mudou minha vida e o impacto que ela tem na vida de outras pessoas pelo mundo todo
+✨ Sou Engenheira de Software atuando como Fullstack especificamente com Kotlin e React. Estou no segundo ano de Bacharelado em Sistema de informação e sou formada no curso técnico de desenvolvimento de sistemas. Amo a área da tecnologia e o quanto ela mudou minha vida e o impacto que ela tem na vida de outras pessoas pelo mundo todo
 
 <h1> ⚡ GitHub Stats <br><br>
 <div align="center" >
